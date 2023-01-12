@@ -1,0 +1,24 @@
+{
+  "name": "drag-and-drop-task",
+  "version": "1.0.0",
+  "description": "A small application that allows a user to drag and drop items that are supposed to be connected with each other. This app can be used for educational purposes when a learner needs to memorize a term-definition pair. Based on ES6 Classes, object-oriented project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/romaniso"
+  },
+  "keywords": [
+    "ES6",
+    "ES6",
+    "Class",
+    "Modules",
+    "Drag",
+    "and",
+    "Drop"
+  ],
+  "author": "Roman Isopenko",
+  "license": "ISC"
+}
